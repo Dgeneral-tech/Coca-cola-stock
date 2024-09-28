@@ -1,2 +1,2 @@
-# Coca-cola-stock
+# Data project
 Coca-cola stock evaluation
